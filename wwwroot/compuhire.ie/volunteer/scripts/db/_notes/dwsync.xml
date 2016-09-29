@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="data.xml" server="www.compuhire.ie" local="130898079267648857" remote="129895174800000000" Dst="2" />
+<file name="mysql4.x_create.sql" server="www.compuhire.ie" local="130898079268299250" remote="129895174800000000" Dst="2" />
+<file name="mysql4.x_upgrade.sql" server="www.compuhire.ie" local="130898079268589261" remote="129895174800000000" Dst="2" />
+<file name="mysql5.x_create.sql" server="www.compuhire.ie" local="130898079269059283" remote="129895174800000000" Dst="2" />
+<file name="mysql_populate.sql" server="www.compuhire.ie" local="130898079270089336" remote="129895174800000000" Dst="2" />
+<file name="mysql_update-1.5-1.6.sql" server="www.compuhire.ie" local="130898079270449027" remote="129895174800000000" Dst="2" />
+<file name="mysql_update-1.8.2h-1.8.2i.sql" server="www.compuhire.ie" local="130898079270449027" remote="129895174800000000" Dst="2" />
+<file name="mysql_update-1.8.2k-2.0.0.sql" server="www.compuhire.ie" local="130898079271659425" remote="129895174800000000" Dst="2" />
+<file name="postgres_populate.sql" server="www.compuhire.ie" local="130898079272199861" remote="129895174800000000" Dst="2" />
+<file name="README.txt" server="www.compuhire.ie" local="130898079272339467" remote="129895174800000000" Dst="2" />
+<file name="schema.xml" server="www.compuhire.ie" local="130898079272949152" remote="129895174800000000" Dst="2" />
+<file name="sqlite_populate.sql" server="www.compuhire.ie" local="130898079273259522" remote="129895174800000000" Dst="2" />
+</dwsync>

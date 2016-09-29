@@ -1,0 +1,99 @@
+a.menu:link, a.menu:visited, a.menu:active
+ { color: #FFFFFF;  text-decoration: none; font-weight: bold; cursor: hand; }
+a.menu:hover
+ { color: #C0E0F0;  text-decoration: none; font-weight: bold; cursor: hand; }
+
+a:link, a:visited, a:active
+ { color: #066990;  text-decoration: normal; font-weight: bold; cursor: hand; }
+a:hover
+ { color: #222222;  text-decoration: normal; font-weight: bold; cursor: hand; }
+
+BODY {
+
+background-attachment: scroll;
+BACKGROUND-POSITION: left top;
+MARGIN: 0px;
+BACKGROUND-color: #000000;
+
+scrollbar-face-color: #000000;
+scrollbar-highlight-color: #000000;
+scrollbar-3dlight-color: #000000;
+scrollbar-darkshadow-color: #000000;
+scrollbar-shadow-color: #000000;
+scrollbar-arrow-color: #000000;
+scrollbar-track-color: #000000;
+}
+
+BODY, TD, BR, P, CENTER, INPUT, TEXTAREA {
+font-family: Verdana, Arial, Helvetica;
+font-size: 12;
+color: #EEEEEE;
+cursor: default;
+}
+
+
+.ramka{
+ background-color: #FFFFFF;
+ border: 0px;
+}
+
+.head{
+ left: 30px;
+ border-style: solid;
+ border-width: 1;
+ border-color: #444444;
+ background-color: #FFFFFF;
+ border-top: 0px;
+ border-bottom: 0px;
+ border-right: 0px;
+}
+
+.head1{
+ padding-left: 10px;
+ color: black;
+ font-size: 14;
+ font-weight: bold;
+}
+
+.head2{
+ padding-left: 10px;
+ color: #C0E0F0;
+ font-size: 40;
+ font-weight: bold;
+}
+
+.side{
+ background-color: #FFFFFF;
+ border-style: solid;
+ border-width: 1;
+ border-color: #444444;
+ border-left: 0px;
+ border-top: 0px;
+ border-bottom: 0px;
+}
+
+
+TD.wpis{
+ padding: 10;
+ background-position: bottom right ;
+ background-repeat: no-repeat;"
+ font-size: 12;
+}
+
+TD.wpis2{
+ padding: 10;
+ background-position: top right ;
+ background-repeat: no-repeat;"
+ font-size: 12;
+}
+
+
+INPUT.button{
+ border: 1px solid #000000;
+ background-color: #B9B9B9;
+ cursor: hand;
+ height: 20;
+}
+
+
+

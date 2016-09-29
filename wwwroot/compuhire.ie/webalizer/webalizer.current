@@ -1,0 +1,1801 @@
+# Webalizer V2.01-09 Incremental Data - 08/14/2012 01:38:37
+2012 8 14 1 38 37
+4224 1439 379 32 47 160 11994064 1314 534 0
+7 8 284 1 14
+302 125 881379 51 79 57
+211 90 628011 41 57 45
+268 118 888082 42 82 47
+143 49 437084 40 41 31
+68 34 278767 26 30 27
+445 65 1010891 37 330 40
+376 156 1111095 53 95 55
+905 259 2406950 41 209 42
+496 150 1392485 37 119 41
+191 80 596852 33 56 35
+214 83 635094 36 57 31
+116 54 397498 27 41 30
+444 153 1199415 37 106 48
+45 23 130461 7 12 6
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+106 46 313919 28
+28 18 124650 14
+41 20 160748 16
+26 15 131804 16
+27 13 105547 14
+29 16 126406 14
+34 22 164997 19
+323 24 679696 300
+109 34 321571 29
+446 125 1209649 106
+378 107 985095 87
+408 162 1195055 102
+359 122 958466 83
+264 95 752500 67
+257 84 691750 57
+242 89 708400 63
+288 115 807431 69
+84 35 253461 24
+104 41 300960 27
+151 59 438074 36
+119 44 331230 29
+107 40 339418 33
+217 81 661051 57
+77 32 232186 24
+0
+0
+0
+1439
+0
+0
+0
+0
+0
+2
+0
+2
+0
+0
+549
+0
+0
+0
+0
+0
+0
+2232
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 1000 0 7410922 512 201
+/gfx/details_expo.swf
+0 15 0 2429 0 0
+/terms/
+0 3 0 22722 2 2
+/gfx/details_contact.swf
+0 20 0 30253 0 0
+/gfx/logo.jpg
+1 7 0 5449 0 0
+/gfx/ban2.gif
+1 5 0 1711 0 0
+/webalizer/hourly_usage_200808.png
+1 1 0 213 0 0
+/gfx/ban1.gif
+1 2 0 1463 0 0
+/gfx/details_compu_text.swf
+0 14 0 7364 0 0
+/webalizer/hourly_usage_200807.png
+1 1 0 214 0 0
+/webalizer/daily_usage_200808.png
+1 2 0 426 0 0
+/gfx/details_office_printers.swf
+0 6 0 12246 0 0
+/gfx/details_training.swf
+0 2 0 1658 0 0
+/webalizer/daily_usage_200807.png
+1 1 0 214 0 0
+/webalizer/daily_usage_200806.png
+1 1 0 188 0 0
+/gfx/details_team.swf
+0 7 0 2551 0 0
+/gfx/details_office_copiers.swf
+0 3 0 2510 0 0
+/webalizer/ctry_usage_200808.png
+1 1 0 213 0 0
+/decision/decision.swf
+0 2 0 98 0 0
+/gfx/details_office_fax.swf
+0 1 0 1748 0 0
+/webalizer/ctry_usage_200807.png
+1 1 0 214 0 0
+/gfx/main.swf
+0 385 0 294439 0 0
+/style.css
+0 409 0 68272 0 0
+/gfx/details_technology.swf
+0 41 0 57074 0 0
+/compu-HIRE+Terms+
+0 3 0 2882 1 2
+/gfx/details_laptops.swf
+0 18 0 5781 0 0
+/gfx/details_displays.swf
+0 17 0 21329 0 0
+/gfx/details_audience.swf
+0 1 0 1367 0 0
+/form.php
+0 1 0 310 0 0
+/webalizer/usage_200806.html
+0 1 0 1693 1 1
+/terms/gfx/details_contact.swf
+0 1 0 1591 0 0
+/gfx/details_office.swf
+0 16 0 17552 0 0
+# End Of Table - urls
+# -sites- (monthly)
+baiduspider-220-181-108-185.crawl.baidu.com
+0 1 1 7570 1 1344092744
+/
+119.63.196.121
+0 1 0 1814 0 0
+-
+109.79.79.14
+0 5 1 11436 1 1344533968
+/
+173.227.230.196
+0 2 2 14836 2 1344285023
+/
+119.63.196.124
+0 1 0 1814 0 0
+-
+e178076120.adsl.alicedsl.de
+0 1 1 7418 1 1344218113
+/
+27.44.17.64
+0 2 2 14836 2 1344113148
+/
+176-9-146-19.crawler.sistrix.net
+0 2 1 9213 1 1344510309
+/
+109.255.68.96
+0 7 3 16710 1 1344037313
+/
+119.63.196.54
+0 1 0 1814 0 0
+-
+119.63.196.57
+0 1 0 1814 0 0
+-
+65.98.90.138
+0 2 2 14836 1 1344625879
+/
+aca2441e.ipt.aol.com
+0 13 3 27480 1 1344326811
+/
+089-100-098236.ntlworld.ie
+0 14 7 38960 1 1344250981
+/
+89.204.162.6
+0 6 3 14915 1 1344427743
+/
+crawl01.exabot.com
+0 12 6 55392 6 1344753882
+/
+176.61.87.53
+0 10 2 22872 2 1344162316
+/
+ip-83-147-132-46.dsl.digiweb.ie
+0 24 9 62916 1 1344261418
+/
+46.165.197.141
+0 2 1 9232 1 1344409442
+/
+46.165.197.142
+0 4 2 18464 2 1344276297
+/
+83-71-58-245-dynamic.b-ras1.srl.dublin.eircom.net
+0 10 4 27718 1 1343907725
+/
+mail.merrionhotel.com
+0 6 0 1281 0 0
+-
+86-41-141-248-dynamic.b-ras3.chf.cork.eircom.net
+0 2 1 1795 0 0
+-
+46.165.197.151
+0 6 3 27696 3 1344543083
+/
+82.141.217.235
+0 6 3 14915 1 1344350067
+/
+089-100-035147.ntlworld.ie
+0 6 3 14915 1 1344347518
+/
+61.247.204.39
+0 2 1 9232 1 1344318804
+/
+46.7.23.248
+0 6 3 14915 1 1343822767
+/
+baiduspider-220-181-108-96.crawl.baidu.com
+0 1 1 7572 1 1343964787
+/
+sdcwebdproxy3.europe.hp.net
+0 9 2 20297 1 1344343987
+/terms/
+61.247.204.42
+0 1 1 94 0 0
+-
+61.247.204.43
+0 1 0 1814 0 0
+-
+95.146.189.223
+0 4 2 11083 1 1343814520
+/
+sticker00.yandex.ru
+0 12 8 66524 2 1344690628
+/
+msnbot-207-46-13-115.search.msn.com
+0 2 1 9367 1 1344518578
+/
+3-198-94-81.rackcentre.redstation.net.uk
+0 1 1 7418 1 1343838517
+/
+119.63.196.95
+0 1 1 7418 1 1344478708
+/
+pz-in-f81.1e100.net
+0 1 1 7418 1 1343938704
+/
+202.46.54.46
+0 1 1 7566 1 1344078050
+/
+113.142.10.106
+0 2 2 14836 2 1344870175
+/
+92.251.145.218.threembb.ie
+0 6 3 14915 1 1344212149
+/
+109.79.40.200
+0 5 1 11436 1 1344538120
+/
+203.130.151.115
+0 1 0 1819 0 0
+-
+86.47.88.103
+0 22 10 58538 2 1344529175
+/
+109.79.26.102
+0 11 3 26109 1 1344244713
+/
+nipple4.mail.ru
+0 4 2 18464 2 1344824611
+/
+173.242.125.191
+0 4 2 18464 2 1344231605
+/
+173.242.125.196
+0 4 2 18464 2 1344783838
+/
+109.79.45.89
+0 5 1 11436 1 1344850317
+/
+abs-static-26.215.251.27.aircel.co.in
+0 18 8 51932 1 1344438667
+/
+wtp-g4-maya7.sjdc
+0 1 1 1270 0 0
+-
+113.142.11.175
+0 2 2 427 0 0
+-
+113.142.11.178
+0 2 2 597 0 0
+-
+ti0013a380-1555.bb.online.no
+0 2 1 9232 1 1343956848
+/
+95.83.219.54
+0 6 3 14915 1 1343846364
+/
+wtp-g3-maya3.sjdc
+0 1 1 1410 0 0
+-
+112.111.183.96
+0 2 2 14836 1 1344892228
+/
+ip-2.31-186-87-44.net.eco.atman.pl
+0 1 1 7418 1 1344523333
+/
+pz-in-f98.1e100.net
+0 1 0 1795 0 0
+-
+crawl-66-249-72-1.googlebot.com
+0 17 5 46620 5 1344893663
+/
+79.97.131.216
+0 77 17 176814 14 1344813627
+/
+78-106-196-144.broadband.corbina.ru
+0 1 0 160 0 0
+-
+static.12.138.9.176.clients.your-server.de
+0 1 1 7586 1 1344785121
+/
+c-68-47-129-55.hsd1.ar.comcast.net
+0 1 0 1795 0 0
+-
+109.76.28.131
+0 15 6 35215 1 1344858798
+/
+180.76.6.211
+0 1 0 1814 0 0
+-
+79.97.149.47
+0 23 9 60505 1 1344511764
+/
+109.79.61.219
+0 5 1 11436 1 1344248563
+/
+mail.rds.ie
+0 38 10 86998 1 1344358500
+/
+static.183.101.4.46.clients.your-server.de
+0 2 1 9213 1 1343779233
+/
+89.204.232.175
+0 4 2 11083 1 1343919887
+/
+109.77.185.82
+0 6 3 14915 1 1343786174
+/
+180.76.6.227
+0 1 1 7418 1 1344295473
+/
+101.226.89.66
+0 1 1 7418 1 1344686455
+/
+ool-6c3ad463.static.optonline.net
+0 11 5 28020 2 1344358573
+/
+ip-78-137-130-56.dub-3rk.metro.digiweb.ie
+0 16 5 37787 2 1343993220
+/
+83-71-15-208-dynamic.b-ras1.dbn.dublin.eircom.net
+0 75 26 180860 5 1343843314
+-
+baiduspider-220-181-108-177.crawl.baidu.com
+0 1 1 7418 1 1344674282
+/
+msnbot-157-55-17-147.search.msn.com
+0 2 1 9381 1 1343956365
+/
+h137-191-234-98.gn.gov.ie
+0 7 3 16710 1 1344609809
+/
+109.79.50.244
+0 5 1 11436 1 1343898814
+/
+87-198-113-159.ptr.magnet.ie
+0 6 3 14915 1 1343847391
+/
+128-73-190-241.broadband.corbina.ru
+0 1 0 160 0 0
+-
+sw59-159-101.adsl.dynamic.seed.net.tw
+0 1 0 1795 0 0
+-
+144-174-113-92.pool.ukrtel.net
+0 3 3 22254 3 1344363567
+/
+218.206.203.96
+0 1 0 1814 0 0
+-
+89.123.35.5
+0 2 1 9213 1 1344300475
+-
+124.115.0.15
+0 1 1 7418 1 1344678645
+/
+109.77.140.213
+0 17 8 51057 1 1344380619
+/
+msnbot-65-52-108-68.search.msn.com
+0 2 1 9383 1 1344214710
+/
+124.115.0.21
+0 1 1 7418 1 1344094269
+/
+124.115.0.22
+0 2 2 14836 2 1344557829
+/
+host-189-100.xdsl.telecet.ru
+0 1 1 7418 1 1344300249
+/
+79.97.149.112
+0 21 10 63310 1 1344891871
+/
+124.115.0.27
+0 1 1 7418 1 1344508911
+/
+178-137-82-160-lvv.broadband.kyivstar.net
+0 1 1 7418 1 1344218660
+/
+124.115.0.28
+0 1 1 7418 1 1344259889
+/
+46.7.227.226
+0 15 5 36449 1 1344433409
+/
+host-89-167-95-70.nplay.net.pl
+0 14 7 39379 1 1344447929
+/
+mail.cmsmarketing.com
+0 25 9 65515 1 1344856525
+/
+msnbot-157-55-17-103.search.msn.com
+0 28 14 128982 14 1344639223
+/
+83.71.245.185
+0 6 3 14915 1 1344194695
+/
+fulltextrobot-77-75-77-17.seznam.cz
+0 2 1 9213 1 1344767691
+/
+wtp-g9-maya1.iad1
+0 1 1 1599 0 0
+-
+86.47.139.114
+0 7 3 16710 1 1344016846
+/
+customer-189-254-95-121-sta.uninet-ide.com.mx
+0 1 0 1795 0 0
+-
+87-40-187-7.ptr.edu.ie
+0 12 5 29171 1 1343816340
+/
+baiduspider-220-181-108-91.crawl.baidu.com
+0 1 1 7418 1 1344787674
+/
+86-43-173-10-dynamic.b-ras2.prp.dublin.eircom.net
+0 6 3 14915 1 1344707674
+/
+baiduspider-220-181-108-99.crawl.baidu.com
+0 1 1 7418 1 1344856358
+/
+180.153.206.25
+0 1 1 7572 1 1344686406
+/
+ip-78-137-152-197.dub-tlght.metro.digiweb.ie
+0 6 3 14915 1 1344594815
+/
+s2.960.clients.serverdeals.org
+0 10 5 46160 5 1344828426
+/
+srv7.paul.activeminds.net
+0 1 1 7418 1 1344357329
+/
+msnbot-207-46-13-145.search.msn.com
+0 4 2 18730 2 1344411376
+/
+86-40-200-144-dynamic.b-ras1.bge.bridgend.eircom.net
+0 23 9 61925 1 1344019534
+/
+218.93.127.117
+0 1 1 7418 1 1343853142
+/
+180.76.6.35
+0 1 1 7418 1 1344393097
+/
+180.76.6.37
+0 1 1 7572 1 1343826692
+/
+gbibp9ph1--blueice1n5.emea.ibm.com
+0 16 7 42550 1 1344341984
+/
+089-101-023086.ntlworld.ie
+0 23 9 59452 1 1344876978
+/
+cs27065106.pp.htv.fi
+0 2 1 9232 1 1344781433
+/
+46.7.120.255
+0 6 3 14915 1 1343940304
+/
+74.125.18.158
+0 1 0 1795 0 0
+-
+213.190.136.97
+0 21 8 58079 1 1344511138
+/
+security.lightspeedsystems.com
+0 2 2 14836 1 1344015398
+/
+hosted-by.leaseweb.com
+0 12 6 55392 6 1344364713
+/
+74.125.18.160
+0 1 0 1795 0 0
+-
+baiduspider-220-181-108-114.crawl.baidu.com
+0 1 1 7572 1 1343877351
+/
+124.115.4.191
+0 1 1 7418 1 1344908317
+/
+109.79.34.166
+0 10 2 22872 2 1343819740
+/
+124.115.4.194
+0 1 1 7418 1 1344230412
+/
+124.115.4.198
+0 1 1 7418 1 1343915663
+/
+124.115.4.199
+0 1 1 7418 1 1344123676
+/
+238-30-132-95.pool.ukrtel.net
+0 1 1 7418 1 1344244162
+/
+dsl-047-127.cust.imagine.ie
+0 48 18 136683 1 1344420031
+/
+183.60.153.33
+0 1 1 7572 1 1344684766
+/
+187-50-38-108.customer.tdatabrasil.net.br
+0 2 1 9237 1 1344093786
+/
+baiduspider-123-125-71-34.crawl.baidu.com
+0 1 0 1814 0 0
+-
+74.125.178.17
+0 1 1 7418 1 1344803716
+/
+208.115.113.90
+0 10 5 46375 5 1343911523
+/
+86-44-73-173-dynamic.b-ras1.bdt.dublin.eircom.net
+0 18 9 52950 1 1344377321
+/
+83-71-57-56-dynamic.b-ras1.srl.dublin.eircom.net
+0 7 3 16710 1 1344607574
+/
+74.125.178.26
+0 2 1 1870 0 0
+-
+74.125.178.28
+0 3 1 5627 0 0
+-
+109.77.30.171
+0 32 9 76114 1 1344369352
+/
+60.172.80.148
+0 2 2 14836 1 1343861113
+/
+115.maxided.com
+0 1 0 1814 1 1344094742
+-
+customer.worldstream.nl
+0 2 2 7593 1 1344903048
+/
+213.186.120.196.utel.net.ua
+0 1 0 1795 0 0
+-
+ec2-184-73-224-148.compute-1.amazonaws.com
+0 2 2 14836 2 1343935771
+/
+wtp-g3-maya7.sjdc
+0 1 1 8 0 0
+-
+117.245.26.110
+0 15 7 40973 1 1343836329
+/
+188.143.232.35
+0 3 3 22254 3 1344438557
+/
+155-180-244-190.fibertel.com.ar
+0 2 1 9232 1 1344479826
+/
+204.12.225.170
+0 1 1 7418 1 1344454884
+/
+122.225.67.4
+0 283 1 524024 1 1344236711
+/
+83.70.84.2
+0 13 10 46198 1 1343996886
+/
+089-100-211140.ntlworld.ie
+0 6 3 14915 1 1344613110
+/
+pool-173-79-28-249.washdc.fios.verizon.net
+0 2 1 9232 1 1343877734
+/
+178.127.195.190
+0 1 0 1813 1 1344018828
+-
+193.0.212.71
+0 1 1 7418 1 1344462997
+/
+86.44.244.111
+0 27 12 67433 1 1344877095
+/compu-HIRE+Terms+
+86-46-79-180-dynamic.b-ras1.wtd.waterford.eircom.net
+0 21 10 56089 1 1344338923
+/
+unalloc-synergy-61.synergycentre.ie
+0 27 10 73155 1 1344513696
+/
+baiduspider-123-125-71-70.crawl.baidu.com
+0 1 0 1814 0 0
+-
+baiduspider-220-181-108-172.crawl.baidu.com
+0 1 1 7418 1 1343913560
+/
+193.95.176.114
+0 35 13 99446 2 1344423255
+/
+crawl-66-249-72-182.googlebot.com
+0 30 13 108993 13 1344479338
+/
+79.97.74.208
+0 11 4 29513 1 1343948163
+/
+86.47.2.90
+0 122 27 294847 5 1344872508
+/
+86-42-132-35-dynamic.b-ras1.bbh.dublin.eircom.net
+0 17 6 44413 1 1344440511
+/
+208-115-111-74-reverse.wowrack.com
+0 2 1 9365 1 1343911970
+/
+60.28.250.194
+0 1 0 1814 0 0
+-
+pz-in-f88.1e100.net
+0 4 2 5702 0 0
+-
+109.255.133.164
+0 4 2 11083 1 1344366238
+/
+sr341.2dayhost.com
+0 4 2 18426 1 1343896173
+/
+wtp-gs-maya8.sjdc
+0 1 1 1270 0 0
+-
+62.231.40.147
+0 6 3 14915 1 1344877097
+/
+124.115.0.101
+0 1 1 7418 1 1343887028
+/
+86.47.22.224
+0 6 3 14915 1 1344891573
+/
+124.115.0.102
+0 1 1 7418 1 1344142733
+/
+124.115.0.103
+0 1 1 7418 1 1344034028
+/
+83.71.21.221
+0 6 3 14915 1 1343902669
+/
+124.115.0.104
+0 1 1 7418 1 1344618980
+/
+124.115.0.108
+0 1 1 7418 1 1344787551
+/
+124.115.0.109
+0 1 1 7418 1 1343858653
+/
+109.79.187.77
+0 22 8 57957 1 1344886831
+/
+164-35-132-95.pool.ukrtel.net
+0 1 1 7418 1 1344144114
+/
+86.47.237.58
+0 28 10 75735 2 1344874817
+/
+srv-10.builtwith.com
+0 1 1 7418 1 1344267329
+/
+86-42-93-218-dynamic.b-ras1.blp.dublin.eircom.net
+0 6 3 14915 1 1343840433
+/
+86-46-175-174-dynamic.b-ras1.mgr.mullingar.eircom.net
+0 6 3 14915 1 1344378316
+/
+109.79.66.97
+0 14 4 33955 1 1344002024
+/
+s94.webhostingserver.nl
+0 2 2 7593 1 1344401979
+/
+124.115.0.138
+0 1 1 7418 1 1344478723
+/
+124.115.0.139
+0 1 1 7418 1 1343972526
+/
+baiduspider-220-181-108-90.crawl.baidu.com
+0 1 1 7418 1 1344863694
+/
+fulltextrobot-test-77-75-74-41.seznam.cz
+0 4 2 18426 2 1344314701
+/
+147.252.86.85
+0 7 3 14673 1 1344433110
+/
+124.115.0.140
+0 2 2 14836 2 1344319040
+/
+124.115.0.142
+0 1 1 7418 1 1344649985
+/
+202.46.59.208
+0 1 1 7574 1 1344078050
+/
+109.79.103.248
+0 5 1 11436 1 1344520177
+/
+089-101-120024.ntlworld.ie
+0 136 27 312148 21 1344894351
+/
+crawl-66-249-72-164.googlebot.com
+0 38 16 144841 19 1344891810
+/
+corpproxy.rte.ie
+0 8 4 24159 1 1343904138
+/
+spider-95-108-158-134.yandex.com
+0 19 13 90568 10 1344790459
+/
+crawl-66-249-72-109.googlebot.com
+0 21 10 63488 7 1344397227
+/
+109.79.5.151
+0 23 8 62097 2 1344344450
+/
+124.115.0.159
+0 1 1 7418 1 1344708330
+/
+37-4-183-29-dynip.superkabel.de
+0 3 1 11046 1 1343802301
+/
+124.115.0.161
+0 1 1 7418 1 1344589052
+/
+124.115.0.162
+0 3 3 22254 3 1344738822
+/
+124.115.0.164
+0 1 1 7418 1 1344815729
+/
+124.115.0.166
+0 1 1 7418 1 1343797777
+/
+83-71-1-147-dynamic.b-ras1.dbn.dublin.eircom.net
+0 11 2 24667 2 1344874939
+/
+124.115.0.169
+0 1 1 7418 1 1344350014
+/
+183.4.34.124
+0 3 3 22254 3 1344052079
+/
+116.25.224.200
+0 3 3 22254 1 1344858215
+/
+133.228.12.221.megaegg.ne.jp
+0 29 13 81674 1 1344615744
+/
+server88-208-203-135.live-servers.net
+0 1 1 7418 1 1344155689
+/
+86-42-244-243-dynamic.b-ras2.cld.dublin.eircom.net
+0 6 1 13231 1 1343844390
+/
+71-95-164-162.static.mtpk.ca.charter.com
+0 1 1 7418 1 1343840198
+/
+124.115.0.171
+0 4 4 29672 4 1344841447
+/
+86-42-95-21-dynamic.b-ras1.blp.dublin.eircom.net
+0 21 9 56584 1 1344698388
+/
+109.77.228.152
+0 1 1 0 0 0
+-
+176.61.113.30
+0 6 3 14915 1 1344208772
+/
+95.45.249.29
+0 27 14 77584 1 1344440716
+/
+host-91-203-223-125.ncgroup.pl
+0 2 1 9232 1 1344205402
+/
+109.78.236.113
+0 48 18 149744 1 1344378821
+/
+109.79.58.50
+0 9 3 22519 1 1344072909
+/
+89.127.244.110
+0 6 3 14915 1 1344542006
+/
+baiduspider-220-181-108-117.crawl.baidu.com
+0 1 1 7570 1 1343946050
+/
+202.46.55.51
+0 1 1 7574 1 1344078055
+/
+ks394872.kimsufi.com
+0 6 3 27696 3 1344413821
+/
+baiduspider-123-125-71-22.crawl.baidu.com
+0 1 0 1814 0 0
+-
+109.79.24.69
+0 5 1 11436 1 1344860295
+/
+mail2.pod.ie
+0 7 3 14806 1 1344863458
+/
+9b.41.2d.static.xlhost.com
+0 1 1 7418 1 1344298765
+/
+86-41-185-18-dynamic.b-ras3.chf.cork.eircom.net
+0 6 3 14915 1 1344432087
+/
+gun-ghluasad-217-16-217-42.scotnet.co.uk
+0 22 7 53320 1 1344824724
+/
+srv761.sd-france.net
+0 1 1 7418 1 1344309162
+/
+86-43-210-45-dynamic.b-ras2.bbh.dublin.eircom.net
+0 6 3 14915 1 1343941261
+/
+niederhausen.tm.informatik.uni-leipzig.de
+0 1 1 7418 1 1344723496
+/
+46.7.17.209
+0 6 3 14915 1 1344686223
+/
+176.61.12.210
+0 6 3 14915 1 1343923319
+/
+86-44-31-31-dynamic.b-ras2.blp.dublin.eircom.net
+0 6 3 14915 1 1344710395
+/
+193.120.165.11
+0 7 2 11087 0 0
+-
+76.73.3.18
+0 1 1 7418 1 1344229114
+/
+86-47-2-90-dynamic.b-ras1.wtd.waterford.eircom.net
+0 928 210 2357528 11 1344604111
+/
+outbound.garda.ie
+0 2 1 9213 1 1344862750
+/
+mxin.melvynhanley.com
+0 25 13 93998 1 1344596592
+/
+188.141.20.16
+0 12 5 29815 1 1344904066
+/
+112.64.235.253
+0 1 1 7418 1 1344686359
+/
+46.7.22.174
+0 20 8 56442 1 1344003747
+/
+178-37-64-2.adsl.inetia.pl
+0 8 3 18505 1 1344078839
+/
+109.77.5.81
+0 6 3 14915 1 1344436999
+/
+93.107.229.223
+0 24 9 68316 1 1344001972
+/
+desktop-153.ukp.informatik.tu-darmstadt.de
+0 2 1 9232 1 1343981670
+/
+109.254.6.14
+0 1 1 7418 1 1343919523
+/
+199.58.86.206
+0 2 1 9232 1 1344588819
+/
+msnbot-207-46-199-193.search.msn.com
+0 4 2 18426 2 1344763828
+/
+86.43.77.150
+0 7 4 22333 1 1343820863
+/
+slave10.subdomain.com
+0 9 9 66762 4 1344789579
+/
+baiduspider-220-181-108-171.crawl.baidu.com
+0 1 1 7418 1 1344790300
+/
+124.115.4.200
+0 2 2 14836 2 1344446268
+/
+178-137-160-135-lvv.broadband.kyivstar.net
+0 1 1 7418 1 1344426843
+/
+124.115.4.203
+0 1 1 7418 1 1344173086
+/
+baiduspider-220-181-108-179.crawl.baidu.com
+0 1 1 7570 1 1344002094
+/
+199.58.86.211
+0 4 2 18464 2 1344874369
+/
+vps2057.directvps.nl
+0 4 2 18464 2 1344029527
+/
+72.13.36.110
+0 2 1 9213 1 1344540769
+/
+joynt.plus.com
+0 1 1 7418 1 1344828288
+/
+089-100-250190.ntlworld.ie
+0 24 9 68476 1 1343909675
+/
+193.120.253.26
+0 1 1 7418 1 1344092621
+/
+193.120.253.28
+0 2 1 9232 1 1344249078
+/
+hispaniola.aon.com
+0 15 7 40755 1 1344357838
+/
+baiduspider-123-125-71-88.crawl.baidu.com
+0 1 0 1814 0 0
+-
+86-42-82-165-dynamic.b-ras1.blp.dublin.eircom.net
+0 23 12 77864 1 1343984763
+/
+crawl-66-249-71-237.googlebot.com
+0 7 4 29058 3 1344001819
+/
+javascript-collection.in
+0 1 1 7418 1 1344382671
+/
+static.51.212.9.176.clients.your-server.de
+0 2 0 3590 0 0
+-
+ycar7.mobile.bf1.yahoo.com
+0 2 1 9213 1 1344291874
+/
+h137-191-239-195.gn.gov.ie
+0 2 2 2067 0 0
+-
+201.249.85-141.dyn.dsl.cantv.net
+0 1 0 1814 0 0
+-
+180.76.5.101
+0 1 0 1814 0 0
+-
+180.76.5.103
+0 1 1 7418 1 1343890087
+/
+109.76.144.189
+0 14 7 39178 1 1343905678
+/
+msnbot-157-56-93-213.search.msn.com
+0 1 1 7418 1 1344591590
+/
+217.115.112.241
+0 1 1 7418 1 1344618702
+/
+abts-north-dynamic-045.230.177.122.airtelbroadband.in
+0 2 2 14836 2 1344004219
+/
+snat-17-cb.inet4.cz
+0 67 20 191172 1 1344550103
+/
+176.31.218.203
+0 6 3 27696 3 1344326232
+/
+86-46-160-229-dynamic.b-ras1.mgr.mullingar.eircom.net
+0 7 4 14915 1 1343860635
+/
+180.76.5.113
+0 1 1 7418 1 1344649832
+/
+109.79.115.34
+0 9 3 22519 1 1344430980
+/
+rate-limited-proxy-72-14-199-237.google.com
+0 2 2 14836 1 1343956988
+/
+180.76.5.48
+0 1 1 7418 1 1344029422
+/
+109.77.164.184
+0 16 6 41998 1 1344899199
+/
+202.108.37.197
+0 1 0 1814 0 0
+-
+109.79.28.49
+0 5 1 11436 1 1343930532
+/
+181.179.serverel.net
+0 1 1 7418 1 1344312734
+/
+95.83.211.86
+0 12 5 29815 1 1343844784
+/
+crawl0.kosmix.com
+0 1 1 7418 1 1344144305
+/
+180.76.5.59
+0 1 0 1814 0 0
+-
+216.243.141.122.adsl-pool.jlccptt.net.cn
+0 1 0 1795 0 0
+-
+sev93-5-88-160-164-246.fbx.proxad.net
+0 150 30 346242 18 1344899470
+/
+180.76.5.138
+0 1 0 1814 0 0
+-
+180.76.5.62
+0 1 1 7418 1 1344711723
+/
+180.76.5.66
+0 1 1 7418 1 1343814129
+/
+h137-191-231-2.gn.gov.ie
+0 6 3 14915 1 1344342536
+/
+180.76.5.146
+0 1 0 1814 0 0
+-
+180.76.5.147
+0 1 1 7418 1 1343864576
+/
+178.172.183.50
+0 1 0 1814 0 0
+-
+109.76.41.177
+0 24 8 62952 1 1344090854
+/
+176-8-247-95-kie.broadband.kyivstar.net
+0 2 2 14836 2 1343955346
+/
+static.88-198-25-25.clients.your-server.de
+0 1 1 7418 1 1344325454
+/
+87-198-114-203.ptr.magnet.ie
+0 27 10 82875 2 1344804636
+/
+180.76.5.151
+0 1 1 7418 1 1344452704
+/
+180.76.5.155
+0 1 0 1814 0 0
+-
+olivetti.dsl.keme.net
+0 22 8 60526 1 1343820455
+/
+89.126.49.59
+0 25 10 69387 1 1344713953
+/
+180.76.5.160
+0 2 2 14992 2 1344906569
+/
+180.76.5.162
+0 1 1 7574 1 1343920670
+/
+www.whois.sc
+0 2 1 9232 1 1344407688
+/
+86-46-127-62-dynamic.b-ras1.wtd.waterford.eircom.net
+0 10 5 26225 1 1344780091
+/
+180.76.5.168
+0 1 1 7418 1 1344140821
+/
+101.226.66.173
+0 1 1 7566 1 1344686350
+/
+180.76.5.170
+0 1 0 1814 0 0
+-
+crawl-66-249-71-45.googlebot.com
+0 10 4 39198 6 1343948240
+/
+180.76.5.175
+0 1 0 1814 0 0
+-
+180.76.5.176
+0 1 1 7418 1 1344273806
+/
+baiduspider-220-181-108-116.crawl.baidu.com
+0 1 1 7418 1 1344604725
+/
+89-112-134-95.pool.ukrtel.net
+0 3 3 22254 3 1344547777
+/
+180.76.5.179
+0 2 0 3628 0 0
+-
+94.46.8.187
+0 1 1 175 1 1344412612
+/
+180.76.5.180
+0 1 1 7418 1 1344474318
+/
+180.76.5.181
+0 1 0 1814 0 0
+-
+180.76.5.183
+0 1 0 1814 0 0
+-
+83.71.23.115
+0 6 3 14915 1 1343908838
+/
+abts-north-dynamic-197.250.177.122.airtelbroadband.in
+0 1 1 7418 1 1343833859
+/
+180.76.5.185
+0 1 0 1814 0 0
+-
+rate-limited-proxy-209-85-238-71.google.com
+0 34 28 180302 11 1344907536
+/
+64-121-56-246.c3-0.tlg-ubr1.atw-tlg.pa.cable.rcn.com
+0 1 1 175 1 1344420190
+/
+86-45-89-104-dynamic.b-ras2.srl.dublin.eircom.net
+0 6 3 12878 1 1344799992
+/
+baiduspider-123-125-71-29.crawl.baidu.com
+0 1 0 1814 0 0
+-
+mail.threelinecp.com
+0 12 6 29830 1 1343814434
+/
+202.156.14.10.cache.maxonline.com.sg
+0 1 1 7418 1 1344460691
+/
+sdcwebdproxy6.europe.hp.net
+0 11 5 28020 1 1344343844
+/
+109.79.117.133
+0 6 2 11436 2 1344290840
+/
+78.152.230.168
+0 19 8 53712 1 1344888055
+/
+109.79.18.71
+0 5 1 11436 1 1343823461
+/
+baiduspider-123-125-71-36.crawl.baidu.com
+0 1 0 1814 0 0
+-
+wtp-g8-maya5.iad1
+0 1 1 8 0 0
+-
+188.141.72.159
+0 42 13 111742 1 1343953763
+/
+62.40.35.121
+0 4 2 11241 1 1343825271
+/
+199.187.122.90
+0 1 0 1795 0 0
+-
+86.46.248.105
+0 6 3 14915 1 1344891265
+/
+119.63.196.19
+0 1 0 1814 0 0
+-
+web15.alexiadns.com
+0 1 1 7418 1 1344568338
+/
+2-198-94-81.rackcentre.redstation.net.uk
+0 2 2 14836 2 1344685629
+/
+109.79.91.110
+0 6 1 13231 1 1343820532
+/
+109.79.76.210
+0 4 1 11222 1 1344256521
+/
+112.253.13.184
+0 1 0 1814 0 0
+-
+119.63.196.23
+0 1 0 1814 0 0
+-
+119.63.196.24
+0 1 0 1814 0 0
+-
+bzq-79-177-215-121.red.bezeqint.net
+0 1 1 7418 1 1344237990
+/
+109.78.26.212
+0 7 3 16710 1 1344517885
+/
+119.63.196.29
+0 1 0 1814 0 0
+-
+109.79.6.247
+0 10 2 22872 1 1343855906
+/
+089-100-165241.ntlworld.ie
+0 36 13 98903 1 1344684643
+/
+86-42-247-76-dynamic.b-ras2.cld.dublin.eircom.net
+0 10 5 25998 1 1343891074
+/
+119.63.196.111
+0 1 0 1814 0 0
+-
+ec2-54-247-188-106.eu-west-1.compute.amazonaws.com
+0 1 1 7418 1 1344300144
+/
+174.red-79-158-179.staticip.rima-tde.net
+0 21 10 55670 1 1344902859
+/
+176.61.63.203
+0 10 4 25910 1 1344076675
+/
+119.63.196.32
+0 1 1 7418 1 1344362019
+/
+87-98-185-219.ovh.net
+0 2 1 9232 1 1344527828
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+124.115.4.191
+0 1 1 7418 1 1344908317
+/
+customer.worldstream.nl
+0 2 2 7593 1 1344903048
+/
+crawl-66-249-72-164.googlebot.com
+0 2 0 2009 0 0
+-
+188.141.20.16
+0 12 5 29815 1 1344904066
+/
+180.76.5.160
+0 1 1 7418 1 1344906569
+/
+rate-limited-proxy-209-85-238-71.google.com
+0 6 4 20538 1 1344907536
+/
+174.red-79-158-179.staticip.rima-tde.net
+0 21 10 55670 1 1344902859
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.google.pl/url
+0 1
+http://compuhire.ie/gfx/details_technology.swf
+1 9
+http://www.compuhire.ie/gfx/details_compu_text.swf
+1 10
+http://www.google.co.uk/search
+0 1
+http://www.compuhire.ie/gfx/details_expo.swf
+1 1
+http://www.compuhire.ie/cp/scripts/Perl/Guestbook/E-Guest_sign.pl
+1 21
+http://www.google.co.uk/aclk
+0 1
+http://www.compuhire.ie/terms/
+1 7
+http://www.google.com/search
+0 3
+http://search.babylon.com/
+0 2
+http://compuhire.ie/gfx/details_contact.swf
+1 1
+http://www.compuhire.ie/
+1 1475
+http://compuhire.ie/gfx/details_office.swf
+1 2
+http://www.compuhire.ie/gfx/details_office.swf
+1 5
+http://www.dmoz.org/Business/Business_Services/AudioVisual/Equipment/Rental/
+0 1
+http://www.compuhire.ie/gfx/details_displays.swf
+1 1
+http://www.bing.com/search
+0 2
+http://products.pricerunner.co.uk/results/query
+0 1
+http://www.sitedossier.com/site/compuhire.ie
+1 1
+http://www.google.com/aclk
+0 17
+http://www.google.com
+0 1
+http://www.compuhire.ie/gfx/main.swf
+1 30
+http://www.compuhire.ie/gfx/details_team.swf
+1 3
+http://whoisireland.com/iecctldsurvey.html
+0 1
+http://whois.domaintools.com/compuhire.ie
+1 1
+http://compuhire.ie/index.php
+1 302
+http://www.google.com/url
+0 11
+http://www.compuhire.ie/gfx/details_technology.swf
+1 16
+http://eliteurl.com/ed-remedy-com-the-erectile-dysfunction-remedy-report-barton-publishing-inc/
+0 2
+http://www.compuhire.ie/gfx/details_laptops.swf
+1 2
+http://compuhire.ie/gfx/main.swf
+1 8
+http://compuhire.ie/gfx/details_compu_text.swf
+1 3
+http://compuhire.ie/
+1 349
+http://www.google.ie/search
+0 7
+http://www.compuhire.ie/index.php
+1 317
+http://compuhire.ie/gfx/details_team.swf
+1 1
+http://bindlinks.com/2012/08/kettlebellebody/
+0 3
+http://alawarstore.com
+0 1
+http://www.4ni.co.uk/99633x154x35_compu-hire-ltd-dublin-.htm
+0 6
+http://www.google.de/aclk
+0 1
+http://snipermall.com/
+0 3
+http://www.google.ie/aclk
+0 40
+http://bigreplicastore.com/
+0 2
+http://compuhire.ie/terms/
+1 3
+http://compuhire.ie/gfx/details_laptops.swf
+1 4
+http://www.google.ie/url
+0 30
+http://www.google.co.jp/url
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_6_8)+AppleWebKit/534.55.3+(KHTML,+like+Gecko)+Version/5.1.5+Safari/534.55.3
+0 31
+Python-urllib/2.6
+0 1
+Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+msn+OptimizedIE8;ENIE)
+0 14
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET4.0C;+.NET4.0E)
+0 6
+Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.0)+Opera+7.02+Bork-edition+[en]
+0 1
+Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+4.0)+Opera+7.0+[en]
+0 2
+Mozilla/5.0+(Linux;+U;+Android+2.3.4;+en-ie;+SonyEricssonR800iv+Build/4.0.2.A.0.42)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1
+0 6
+Mozilla/5.0+(Windows+NT+5.1;+rv:14.0)+Gecko/20100101+Firefox/14.0.1
+0 64
+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98;+Win+9x+4.90)
+0 2
+Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.0;+Trident/5.0)
+0 25
+Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b
+0 1
+Googlebot-Image/1.0
+0 12
+Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_6_8)+AppleWebKit/536.11+(KHTML,+like+Gecko)+Chrome/20.0.1132.57+Safari/536.11
+0 24
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322)
+0 21
+Sony+Play+Station+2
+0 1
+Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_6_8)+AppleWebKit/534.57.2+(KHTML,+like+Gecko)+Version/5.1.7+Safari/534.57.2
+0 31
+Java/1.6.0_18
+0 1
+Baiduspider+(+http://www.baidu.com/search/spider.htm)
+0 7
+Java/1.6.0_22
+0 2
+Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+GTB6.3;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+MDDC;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+.NET4.0C;+AskTbBT5/5.13.1.18107;+BRI/2)
+0 6
+Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET4.0C;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729)
+0 60
+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322)
+0 1
+Domnutch-Bot/Nutch-1.0+(Domnutch;+http://www.Nutch.de/)
+0 2
+Mozilla/5.0+(compatible;+SISTRIX+Crawler;+http://crawler.sistrix.net/)
+0 2
+Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1)
+0 6
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+WinTSI+05.02.2010;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET4.0C;+.NET+CLR+3.5.30729;+9798017903)
+0 6
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+InfoPath.3)
+0 20
+Mozilla/5.0+(compatible;+AhrefsBot/3.1;++http://ahrefs.com/robot/)
+0 1
+Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html)
+0 90
+Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.13+(KHTML,+like+Gecko)+Chrome/9.0.597.107+Safari/534.13+BuiltWith/1.2
+0 1
+Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11
+0 1
+Mozilla/5.0+(Windows+NT+6.2)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.60+Safari/537.1
+0 48
+Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots)
+0 31
+Mozilla/5.0+(compatible;+MSIE+8.0;+Windows+NT+5.1)+KomodiaBot/1.0
+0 1
+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+.NET+CLR+1.1.4322)
+0 2
+Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+NT;+DigExt)
+0 2
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+InfoPath.2;+.NET4.0C;+.NET4.0E;+MS-RTC+LM+8;+LE
+0 15
+Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.2.8)+Gecko/20100721+Firefox/3.6.8
+0 2
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+FunWebProducts;+GTB7.3;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR
+0 7
+Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+rv:1.7.3)+Gecko/20041001+Firefox/0.10.1
+0 1
+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+FunWebProducts;+MRA+4.6+(build+01425);+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727)
+0 2
+Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.75+Safari/537.1
+0 59
+Opera/7.54+(Windows+NT+5.1;+U)++[pl]
+0 15
+Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.8.1.3)+Gecko/20070309+Firefox/2.0.0.3
+0 1
+HuaweiSymantecSpider/1.0+DSE-support@huaweisymantec.com+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+;+http://www.huaweisymantec.com/en/IRL
+0 1
+Mozilla/5.0+(Windows;+I;+Windows+NT+5.1;+ru;+rv:1.9.2.13)+Gecko/20100101+Firefox/4.0
+0 2
+Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools)
+0 2
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+InfoPath.3;+.NET4.0C)
+0 6
+Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/536.11+(KHTML,+like+Gecko)+Chrome/20.0.1132.57+Safari/536.11
+0 28
+Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html)
+0 45
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+InfoPath.3;+MS-RTC+LM+8)
+0 6
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+InfoPath.1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729)
+0 6
+Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.60+Safari/537.1
+0 41
+Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot)
+0 12
+Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0)
+0 1
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET4.0C)
+0 1
+My+Crawler/Nutch-1.4
+0 2
+Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.60+Safari/537.1
+0 125
+findlinks/2.0.2+(+http://wortschatz.uni-leipzig.de/findlinks/)
+0 3
+Mozilla/5.0+(iPhone;+CPU+iPhone+OS+5_1+like+Mac+OS+X)+AppleWebKit/534.46+(KHTML,+like+Gecko)+Version/5.1+Mobile/9B179+Safari/7534.48.3
+0 2
+Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.2.28)+Gecko/20120306+Firefox/3.6.28+(+.NET+CLR+3.5.30729;+.NET4.0E)
+0 46
+Apache-HttpClient/4.1.2+(java+1.5)
+0 2
+Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.21.1+(KHTML,+like+Gecko)+Version/5.0.5+Safari/533.21.1
+0 6
+Mozilla/4.0+(compatible;+ICS)
+0 4
+Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0)
+0 140
+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1)
+0 16
+Mozilla/5.0+(compatible;+IErachnid/5.0a;++http://whoisireland.com/)
+0 2
+Mozilla/5.0+(compatible;+Mail.RU/2.0)
+0 4
+AdsBot-Google+(+http://www.google.com/adsbot.html)
+0 20
+Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+95)
+0 2
+Mozilla/4.0+(compatible;+MSIE+7.0b;+Windows+NT+6.0)
+0 2
+Mozilla/5.0+(Windows+NT+5.1;+rv:7.0.1)+Gecko/20100101+Firefox/7.0.1
+0 192
+Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_5_8)+AppleWebKit/534.50.2+(KHTML,+like+Gecko)+Version/5.0.6+Safari/533.22.3
+0 35
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET4.0C;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+BRI/2)
+0 15
+Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Win64;+x64;+Trident/5.0)
+0 4
+Mozilla/5.0+(X11;+U;+Linux+i686;+en-US;+rv:1.9.1.3;+ips-agent)+Gecko/20090824+Fedora/1.0.7-1.1.fc4++Firefox/3.5.3
+0 2
+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727;+MAXTHON+2.0)
+0 1
+Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:14.0)+Gecko/20100101+Firefox/14.0.1
+0 88
+Mozilla/5.0+(X11;+Linux+x86_64;+rv:2.0.1)+Gecko/20110506+Firefox/4.0.1
+0 1
+Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/535.19+(KHTML,+like+Gecko)+Chrome/18.0.1025.162+Safari/535.19
+0 2
+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727)
+0 1
+Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/536.11+(KHTML,+like+Gecko)+Chrome/20.0.1132.57+Safari/536.11
+0 78
+Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.11+(KHTML,+like+Gecko)+Chrome/20.0.1132.57+Safari/536.11
+0 49
+DoCoMo/2.0+N905i(c100;TB;W24H16)+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html)
+0 2
+Wget/1.13.4+(linux-gnu)
+0 1
+Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+NT+5.0)
+0 4
+Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+95)+Opera+6.01++[en]
+0 2
+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+KTXN)
+0 1
+Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_6_8)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.57+Safari/537.1
+0 10
+Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_4)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.75+Safari/537.1
+0 23
+SeznamBot/3.0+(+http://fulltext.sblog.cz/)
+0 6
+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+Win64;+AMD64)
+0 1
+Mozilla/5.0+(iPhone;+CPU+iPhone+OS+5_1_1+like+Mac+OS+X)+AppleWebKit/534.46+(KHTML,+like+Gecko)+Mobile/9B206
+0 1
+Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2
+0 9
+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727)
+0 1
+Mozilla/5.0+(compatible;+Ezooms/1.0;+ezooms.bot@gmail.com)
+0 12
+Mozilla/5.0+(Windows+NT+6.0;+rv:14.0)+Gecko/20100101+Firefox/14.0.1
+0 15
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB7.3;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+MALC;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+BRI/2)
+0 6
+Mozilla/5.0+(Windows+NT+5.1;+rv:12.0)+Gecko/20100101+Firefox/12.0
+0 50
+Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+2.0.50727;+InfoPath.3;+ms-office;+MSOffice+14)
+0 1
+Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.49+Safari/537.1
+0 13
+Mozilla/5.0+(Windows+NT+6.0;+rv:11.0)+Gecko/20100101+Firefox/11.0
+0 27
+Yeti/1.0+(NHN+Corp.;+http://help.naver.com/robots/)
+0 4
+Mozilla/5.0+(compatible;+semvisuBot+2.0;++http://fr.semvisu.com/bot)
+0 1
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+InfoPath.2;+.NET+CLR+2.0.50727;+.NET4.0C;+.NET4.0E;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729)
+0 6
+Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_8;+en-us)+AppleWebKit/533.21.1+(KHTML,+like+Gecko)+Version/5.0.5+Safari/533.21.1
+0 6
+Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)
+0 42
+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+FunWebProducts)
+0 1
+Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_3)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.75+Safari/537.1
+0 83
+Mozilla/5.0+(Windows+NT+5.1;+rv:10.0.6)+Gecko/20100101+Firefox/10.0.6
+0 16
+Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+GTB7.3;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.3
+0 23
+Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google
+0 16
+Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8)+AppleWebKit/536.25+(KHTML,+like+Gecko)+Version/6.0+Safari/536.25
+0 18
+Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:15.0)+Gecko/20100101+Firefox/15.0
+0 12
+Mozilla/4.0+(compatible;+MSIE8.0;+Windows+NT+6.0)+.NET+CLR+2.0.50727)
+0 5
+Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.7.5)+Gecko/20041107+Firefox/1.0
+0 1
+Mozilla/5.0+(compatible;+Google+Desktop/5.9.1005.12335;+http://desktop.google.com/)
+0 2
+Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_4)+AppleWebKit/534.56.5+(KHTML,+like+Gecko)+Version/5.1.6+Safari/534.56.5
+0 6
+Mozilla/5.0+(compatible;+pmoz.info+ODP+link+checker;++http://pmoz.info/doc/botinfo.htm)
+0 1
+Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729)
+0 21
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+msn+OptimizedIE8;ENIE)
+0 810
+Mozilla/5.0+(Linux;+U;+Android+2.1-update1;+en-ie;+GT-I5700+Build/ECLAIR)+AppleWebKit/530.17+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/530.17
+0 10
+Mozilla/5.0+(Windows+NT+6.0)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.75+Safari/537.1
+0 50
+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+TheFreeDictionary.com;+.NET+CLR+1.1.4322;+.NET+CLR+1.0.3705;+.NET+CLR+2.0.50727)
+0 2
+Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_4)+AppleWebKit/534.56.5+(KHTML,+like+Gecko)
+0 2
+Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.6;+rv:14.0)+Gecko/20100101+Firefox/14.0.1
+0 22
+Snoopy+v1.2.4
+0 9
+Mozilla/5.0+(iPad;+CPU+OS+5_0_1+like+Mac+OS+X)+AppleWebKit/534.46+(KHTML,+like+Gecko)+Version/5.1+Mobile/9A405+Safari/7534.48.3
+0 4
+Mozilla/4.0+(compatible;+MSIE+7.0;Windows+NT+5.1;.NET+CLR+1.1.4322;.NET+CLR+2.0.50727;.NET+CLR+3.0.04506.30)+Lightspeedsystems
+0 2
+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+MRA+4.6+(build+01425))
+0 2
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727)
+0 2
+Mozilla/5.0+(Windows+NT+5.0;+rv:5.0.1)+Firefox/8.0.1
+0 2
+Sosospider+(+http://help.soso.com/webspider.htm)
+0 38
+Mozilla/5.0+(compatible;+MJ12bot/v1.4.3;+http://www.majestic12.co.uk/bot.php?+)
+0 56
+AdsBot-Google-Mobile+(+http://www.google.com/mobile/adsbot.html)+Mozilla+(iPhone;+U;+CPU+iPhone+OS+3+0+like+Mac+OS+X)+AppleWebKit+(KHTML,+like+Gecko)+Mobile+Safari
+0 16
+Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+GTB6;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506)
+0 2
+SAMSUNG-SGH-E250/1.0+Profile/MIDP-2.0+Configuration/CLDC-1.1+UP.Browser/6.2.3.3.c.1.101+(GUI)+MMP/2.0+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html)
+0 3
+findlinks/2.6+(+http://wortschatz.uni-leipzig.de/findlinks/)
+0 3
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+BTRS31753;+.NET+CLR+2.0.50727;+.NET+CLR+1.1.4322;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.3072
+0 25
+Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_7;+en-us)+AppleWebKit/533.21.1+(KHTML,+like+Gecko)+Version/5.0.5+Safari/533.21.1
+0 27
+Mozilla/5.0+(compatible;+WebNL;++http://www.web.nl/webmasters/spider.html;+helpdesk@web.nl)
+0 4
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0)
+0 6
+Mozilla/4.0
+0 4
+Mozilla/5.0+(Windows+NT+6.1;+rv:14.0)+Gecko/20100101+Firefox/14.0.1
+0 28
+Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618)
+0 36
+Mozilla/5.0+(Windows+NT+6.2)+AppleWebKit/534.57.2+(KHTML,+like+Gecko)+Version/5.1.7+Safari/534.57.2
+0 21
+Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.1;+WOW64;+Trident/5.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+MDDC;+.NET4.0C;+BRI/2;+MSOffice+12)
+0 4
+Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+2.0.50727;+InfoPath.3;+Microsoft+Outlook+14.0.6025;+ms-office;+MSOffice+14)
+0 1
+Mozilla/5.0+(Windows+NT+6.0)+AppleWebKit/536.11+(KHTML,+like+Gecko)+Chrome/20.0.1132.57+Safari/536.11
+0 4
+Mozilla/5.0+(Windows+NT+6.1;+rv:12.0)+Gecko/20100101+Firefox/12.0
+0 1
+Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_4)+AppleWebKit/534.57.2+(KHTML,+like+Gecko)+Version/5.1.7+Safari/534.57.2
+0 12
+Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729)
+0 6
+Mozilla/5.0+(compatible;+WBSearchBot/1.1;++http://www.warebay.com/bot.html)
+0 4
+Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_4)+AppleWebKit/536.25+(KHTML,+like+Gecko)+Version/6.0+Safari/536.25
+0 31
+Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0)
+0 50
+Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.60+Safari/537.1
+0 12
+Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:13.0)+Gecko/20100101+Firefox/13.0.1
+0 29
+Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET4.0C;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729)
+0 500
+Mozilla/5.0+(iPhone;+CPU+iPhone+OS+5_1_1+like+Mac+OS+X)+AppleWebKit/534.46+(KHTML,+like+Gecko)+Version/5.1+Mobile/9B206+Safari/7534.48.3
+0 4
+Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.1+(KHTML,+like+Gecko)+Chrome/6.0.427.0+Safari/534.1
+0 1
+# End Of Table - agents
+# -search strings- 
+hire an computer in ireland
+2
+sanding machine fo-
+1
+laptop rental dublin
+1
+compare printer lease ireland
+1
+runner hire ireland
+2
+projector hire dublin
+1
+laptop hire cork
+1
+computer rental ie
+1
+foam party ireland
+1
+which ren-
+1
+shredder -
+2
+garden equipment hir-
+1
+laptop leasing ireland
+1
+powerwash rental ireland
+1
+laptop rental price
+1
+compu rent
+1
+laptop rental ireland
+1
+concreat s-
+1
+computer rental dublin
+1
+toyota dyna h-
+1
+dj equipmen-
+1
+hollow tinnin-
+1
+printer hire dublin
+1
+cost r-
+1
+hire pressure was-
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
+# -Error404- 
+# End Of Table - Error404-
